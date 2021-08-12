@@ -1,7 +1,7 @@
 ## Olá! Eu sou Junior Paixao
 
 - 👋 Estou estudando como desenvolvedor Front-end e Back-end
-- 👀 Estudando PHP e JavaScript
+- 👀 Estudando atualmente PHP e JavaScript
 
 <div>
     <a href="https://github.com/juniorti91">
