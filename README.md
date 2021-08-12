@@ -1,6 +1,6 @@
 ## Olá! Eu sou Junior Paixao
 
-- ❤️‍🔥 Estou estudando como desenvolvedor Front-end e Back-end
+- ❤️‍🔥 Desenvolvendo em Front-end e Back-end
 - ✨ Estudando atualmente PHP, JavaScript, MySQL e Bootstrap
 
 <div>
