@@ -1,6 +1,6 @@
 ## Olá! Eu sou Junior Paixao
 
-- ❤️‍🔥 Desenvolvendo em Front-end e Back-end
+- ❤️‍🔥 Desenvolvendor FullStack
 - ✨ linguagem de programação ASP.NET Core, C#, C, JavaScript, Razor, Bootstrap, ReactJS, MVVM, MVC.
 
 
