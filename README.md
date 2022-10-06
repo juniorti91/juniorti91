@@ -1,7 +1,7 @@
 ## Olá! Eu sou Junior Paixao
 
 - ❤️‍🔥 Desenvolvendo em Front-end e Back-end
-- ✨ Estudando atualmente PHP, ReactJS, TypeScript, Css, Sass Css, MySQL e Bootstrap
+- ✨ linguagem de programação ASP.NET Core, C#, C, JavaScript, Razor, Bootstrap, ReactJS, MVVM, MVC.
 
 
 <div>
