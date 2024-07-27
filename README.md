@@ -1,6 +1,6 @@
 ## Olá! Eu sou Junior Paixao
 
-- ❤️‍🔥 Desenvolvendor FullStack
+- ❤️‍🔥 Desenvolvendor BackEnd
 - ✨ JavaScript | C# | .NET Core | ReactJS | SQL Server | MongoDB | APIs RESTful | Docker | MicroServiços.
 
 
